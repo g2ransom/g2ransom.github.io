@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a data analyst at a distributed cloud storage company. I love talking about data science and analytics,
+math, tech, personal finance, investing, and life and career development. This blog is basically a hodge-podge of all my thoughts across those topics. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[Contact](mailto:g2ransom@gmail.com)
